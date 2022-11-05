@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"https://github.com/sunday4me/Backend_Golang_S_S_E_Project/shop"
+	"github.com/sunday4me/Backend_Golang_S_S_E_Project/shop"
 )
 
 func main() {
